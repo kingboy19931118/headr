@@ -10,3 +10,5 @@ An index for all [headr](https://headr.io) repositories.
 [headr-repoctl](https://github.com/seagullbird/headr-repoctl) -- Repositories management and control.
 
 [headr-sitemgr](https://github.com/seagullbird/headr-sitemgr) -- Site creation and configuration.
+
+[headr-apigateway](https://github.com/seagullbird/headr-apigateway) -- Entrance for all Headr services.
