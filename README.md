@@ -12,3 +12,5 @@ An index for all [headr](https://headr.io) repositories.
 [headr-sitemgr](https://github.com/seagullbird/headr-sitemgr) -- Site creation and configuration.
 
 [headr-apigateway](https://github.com/seagullbird/headr-apigateway) -- Entrance for all Headr services.
+
+[headr-common](https://github.com/seagullbird/headr-common) -- Common packages for by all headr projects. (Such as message queue and database services.)
