@@ -14,3 +14,5 @@ An index for all [headr](https://headr.io) repositories.
 [headr-apigateway](https://github.com/seagullbird/headr-apigateway) -- Entrance for all Headr services.
 
 [headr-common](https://github.com/seagullbird/headr-common) -- Common packages for by all headr projects. (Such as message queue and database services.)
+
+[headr-k8s-helper](https://github.com/seagullbird/headr-k8s-helper) -- In-cluster k8s client supporting dynamic deployment and service management.
