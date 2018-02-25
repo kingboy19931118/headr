@@ -21,3 +21,5 @@ Headr is not finished yet, I am still working on it. This is an index for all cu
 [headr-common](https://github.com/seagullbird/headr-common) -- Common packages for by all headr projects. (Such as message queue and database services.)
 
 [headr-k8s-helper](https://github.com/seagullbird/headr-k8s-helper) -- In-cluster k8s client supporting dynamic deployment and service management.
+
+[headr-contentmgr](https://github.com/seagullbird/headr-contentmgr) -- Content management.
